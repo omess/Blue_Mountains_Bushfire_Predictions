@@ -3,3 +3,6 @@ leafmap
 folium
 rasterio
 scikit-learn
+xarray
+rioxarray
+netcdf4
