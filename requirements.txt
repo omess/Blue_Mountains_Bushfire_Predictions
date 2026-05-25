@@ -6,3 +6,4 @@ scikit-learn
 xarray
 rioxarray
 netcdf4
+localtileserver
