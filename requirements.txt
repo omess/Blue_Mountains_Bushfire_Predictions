@@ -1,0 +1,5 @@
+streamlit
+leafmap
+folium
+rasterio
+scikit-learn
