@@ -12,7 +12,7 @@ st.markdown("""
             Target Ecosystem Evaluation: Blue Mountains, New South Wales System Domain
         </p>
     </div>
-""", unsafe_allowed_html=True)
+""", unsafe_allow_html=True)
 
 # 2. Sidebar Analytical Metadata View
 st.sidebar.title("Pipeline Architecture")
