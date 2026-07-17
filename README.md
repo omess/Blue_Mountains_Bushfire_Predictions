@@ -5,7 +5,7 @@
 [![Cloud Engine](https://img.shields.io/badge/Cloud%20Engine-Google%20Earth%20Engine-4285F4?style=flat-square&logo=google-cloud)](https://earthengine.google.com/)
 [![Target Journal](https://img.shields.io/badge/Target-Q1%20Scientific%20Manuscript-success?style=flat-square)](#)
 
-An advanced remote sensing pipeline and machine learning framework designed to model, map, and analyze wildfire fuel loads and dynamic risk profiles. Focusing on the complex, highly flammable landscapes of the **Blue Mountains, New South Wales, Australia**, this repository acts as both an operational dashboard and a reproducible research repository targeted for publication in Q1 remote sensing and wildland fire journals.
+An advanced remote sensing pipeline and machine learning framework designed to model, map, and analyze wildfire fuel loads and dynamic risk profiles. Focusing on the complex, highly flammable landscapes of the **Blue Mountains, New South Wales, Australia**, this repository acts as both an operational dashboard.
 
 ---
 
